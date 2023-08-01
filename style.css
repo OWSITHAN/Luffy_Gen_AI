@@ -423,7 +423,7 @@ body {
     display: flex;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 600px) {
     body {
         background: linear-gradient(to bottom, rgb(0, 0, 0), #1F2937);
     }
