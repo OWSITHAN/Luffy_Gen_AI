@@ -7,10 +7,6 @@ body {
     background: linear-gradient(to right, rgb(0, 0, 0), #1F2937);
 }
 
-* {
-    font-family: Outfit;
-}
-
 .luffy-heading {
     color: #cd0000;
     font-size: 25px;
@@ -30,6 +26,9 @@ body {
     width: 155px;
 }
 
+* {
+    font-family: Outfit;
+}
 
 .main-container {
     display: flex;
@@ -423,7 +422,7 @@ body {
     display: flex;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 950px) {
     body {
         background: linear-gradient(to bottom, rgb(0, 0, 0), #1F2937);
     }
